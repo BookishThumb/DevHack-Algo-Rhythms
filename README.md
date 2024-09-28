@@ -8,7 +8,7 @@ This project explores the extraction of high-value metals from ores using microo
 
 - Utilize microorganisms for **eco-friendly metal extraction**.
 - Develop a **bioreactor** tailored for handling the specific conditions needed for bioleaching with *Chromobacterium violaceum*.
-- Leverage **AI-driven process optimization** for future monitoring and optimization of the metal recovery process.
+
 
 ## Features
 
