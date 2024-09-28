@@ -37,8 +37,3 @@ The bioreactor is designed to:
 - **Engineering**: Custom bioreactor design for optimal microbial performance.
 - **AI & Automation**: (Planned) AI-based process monitoring and control.
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/high-value-metal-extraction
